@@ -31,16 +31,6 @@ public class servletLogin extends HttpServlet {
 		/*
 		 * asdasd
 		 * asd
-		 * asd
-		 * asd
-		 * asd
-		 * asd
-		 * asd
-		 * asd
-		 * as
-		 * das
-		 * dasd
-		 * as
 		 * dasd
 		 * asd
 		 * asd
